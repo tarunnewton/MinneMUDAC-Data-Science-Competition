@@ -4,11 +4,19 @@
 
 The challenge was to predict the voter turnout for Democrats, Republicans, and third-party candidates for each of Minnesota’s eight Congressional districts, as well as for both Senate seats and the race for Governor.
 
-Read more about it [here](https://carlsonschool.umn.edu/news/msba-team-wins-2018-minnemudac-case-competition?utm_source=msba&utm_medium=linkedin_organic&utm_campaign=events_minnmudacwinners)
+Read more about the problem statement [here](https://carlsonschool.umn.edu/news/msba-team-wins-2018-minnemudac-case-competition?utm_source=msba&utm_medium=linkedin_organic&utm_campaign=events_minnmudacwinners).
 
-[presentation](MinneAnalytics.pdf)
+Have a look at our final [presentation](MinneAnalytics.pdf).
 
 It was one of the most challengeing data science problems I have tackled as for this challenge no data was provided and we had to go get our own data and secondly there was no right way to tackle partisan voter turn out.
+
+### Key Takeaways
+
+1. Think outside the box
+2. The importance of having good data
+
+
+
 
 
 
