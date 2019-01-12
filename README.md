@@ -6,6 +6,7 @@ The challenge was to predict the voter turnout for Democrats, Republicans, and t
 
 Read more about it [here](https://carlsonschool.umn.edu/news/msba-team-wins-2018-minnemudac-case-competition?utm_source=msba&utm_medium=linkedin_organic&utm_campaign=events_minnmudacwinners)
 
+[presentation](MinneAnalytics.pdf)
 
 It was one of the most challengeing data science problems I have tackled as for this challenge no data was provided and we had to go get our own data and secondly there was no right way to tackle partisan voter turn out.
 
