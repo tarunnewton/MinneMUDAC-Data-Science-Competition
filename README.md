@@ -45,4 +45,3 @@ Have a look at our final [presentation](MinneAnalytics.pdf) for a quick summary 
 
 MinneMUDAC, now in its third year, is a partnership between MinneAnalytics and the Midwest Undergraduate Data Analytics Competition (MUDAC). Read more about the competition [here](http://minneanalytics.org/students-use-data-to-predict-voter-turnout-at-minnemudac-2018/).
 
-
