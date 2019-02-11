@@ -17,7 +17,7 @@ It was one of the most challenging data science problems I have tackled for two 
 3. Think out of the box - We should not get stuck on just collecting endless data or trying to improve the performance of the existing model by trying different algorithms and parameter settings but every once in a while really think about where and why the current approach is failing and what can be done to improve that. This kind of thinking was critical to the success of our project.
 4. Communication - It’s not enough just to have the technical know-how to analyze data, create predictive models, and so on – communication skills are equally important. You must be able to explain effectively how you came to a specific conclusion and be able to rationally justify your approach. For us being able to convince our audience who were from very diverse backgrounds (college data science professors to business professionals) that our results make sense was key.
 
-### The Challenge
+### The Challenge 
 
 The challenge was to investigate the factors/characteristics that influence the number of voters who would cast a ballot in the 2018 Minnesota elections, and predict the number of votes that will be cast for each party (Democrat, Republican & Independent) for the 8 Congressional Districts, the governor and the 2 Senate seats of Minnesota. This amounts to a total of 33 predictions [(8 + 2 + 1) x 3]. Teams were evaluated on several factors, including data preparation, creativity, methods, communication of results, team synergy and the accuracy of their model and predictions of turnout. 
 
